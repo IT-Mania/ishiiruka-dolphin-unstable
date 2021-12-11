@@ -1,0 +1,5 @@
+[ps4]
+name=ps4-ishiiruka
+baseurl=https://raw.githubusercontent.com/IT-mania/ishiiruka-dolphin-unstable/master/x86_64
+enabled=1
+gpgcheck=0
